@@ -39,19 +39,19 @@ I'm deeply passionate about designing mobile applications that truly connect wit
 ## Database:
 
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 [![Mongodb](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 ## Tools:
 
 [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
-[![Aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://skillicons.dev)
 [![PostMan](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![Aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 [![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)
 
 ---
