@@ -1,6 +1,6 @@
 # About Me
 
-Passionate Software Engineer with over 2 years of hands-on experience in developing and maintaining web applications. Demonstrated ability to collaborate effectively in teams to meet project deadlines and exceed client expectations. Proven track record of quickly adapting to new technologies and learning on the fly. Skilled at writing clean, maintainable code and continuously improving processes for enhanced efficiency and productivity.
+Passionate Software Engineer with over 2 years of hands-on experience in developing and maintaining mobile and web applications. Demonstrated ability to collaborate effectively in teams to meet project deadlines and exceed client expectations. Proven track record of quickly adapting to new technologies and learning on the fly. Skilled at writing clean, maintainable code and continuously improving processes for enhanced efficiency and productivity.
 
 ## Software Engineer
 
