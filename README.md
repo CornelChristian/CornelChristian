@@ -4,7 +4,7 @@ I am a passionate Software Engineer with over 2 years of hands-on experience in 
 
 ## Software Engineer
 
-I'm deeply passionate about designing mobile applications that truly connect with users. I've explored diverse development methodologies to ensure top-notch quality. While I've experimented with cross-platform development through React Native, my expertise primarily lies in creating outstanding Android applications, as well as web development.
+I'm deeply passionate about designing mobile and web applications that truly connect with users. I've explored diverse development methodologies to ensure top-notch quality. While I've experimented with cross-platform development through React Native, my expertise primarily lies in creating outstanding Android applications, as well as web development.
 
 
 
