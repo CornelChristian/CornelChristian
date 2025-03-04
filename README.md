@@ -1,6 +1,10 @@
 # About Me
 
-I am a passionate Software Engineer with 3 years of hands-on experience in developing and maintaining mobile and web applications. I have a proven ability to collaborate effectively in team environments, consistently meeting project deadlines and exceeding client expectations. I adapt quickly to new technologies and am always eager to learn on the go. I specialize in writing clean, maintainable code and continuously strive to improve processes for greater efficiency and productivity.
+I’m a software developer with experience in developing and maintaining mobile 
+and web applications. I’ve had the opportunity to work closely with teams to 
+meet project deadlines and contribute to client satisfaction. I strive to learn 
+quickly and adapt to new technologies, focusing on writing clean, maintainable 
+code and improving processes to boost efficiency and productivity.
 
 ## Software Engineer
 
@@ -64,4 +68,4 @@ You can connect with me through the following platforms:
 
 - [Facebook](https://www.facebook.com/cjcornel77/)
 - [LinkedIn](https://www.linkedin.com/in/christian-jason-cornel-5126441b8/)
-- [Portfolio](https://cornelchristian.github.io/)
+- [Portfolio](https://cjcornel.vercel.app/)
